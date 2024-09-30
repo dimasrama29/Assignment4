@@ -1,0 +1,18 @@
+  .container {
+    background-color: orangered;
+    
+    height: 100vh;
+  }
+  
+  .tables {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 150px;
+    text-align: center;
+  }
+  
+  th,
+  td {
+    padding: 8px;
+    padding-left: 20px;
+  }
